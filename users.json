@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "mariem",
+    "lastName": "nacib",
+    "email": "mariem@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "name": "mariem nacib",
+    "image": "/images/user/owner.jpg"
+  },
+  {
+    "firstName": "mariem111",
+    "lastName": "nacib",
+    "email": "mariem1@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "name": "mariem111 nacib",
+    "image": "/images/user/owner.jpg"
+  }
+]
